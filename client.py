@@ -2,7 +2,6 @@ import os
 import time
 import hashlib
 import requests
-from bs4 import BeautifulSoup
 
 #小黑盒版本号,会自动设置为最新版
 _VERSION = '1.1.36'

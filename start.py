@@ -33,6 +33,7 @@ def daily_task():
 
 
 if __name__ == '__main__':
+    daily_task()
     while True:
         now = datetime.datetime.now()
         if now.hour == 8 and now.minute == 30:

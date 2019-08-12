@@ -6,18 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-beautifulsoup4 = "==4.8.0"
-bs4 = "==0.0.1"
-certifi = "==2019.6.16"
-chardet = "==3.0.4"
-idna = "==2.8"
-lxml = "==4.3.3"
-lxml-xpath-ipaddress = "==0.2.0"
-pyasn1 = "==0.4.6"
 requests = "==2.22.0"
-rsa = "==4.0"
-soupsieve = "==1.9.2"
-urllib3 = "==1.25.3"
 
 [requires]
 python_version = "3.7"
